@@ -26,6 +26,5 @@ After that i added Labels for all the GPIO pins and a Keyboard which is the stan
 ![image](img/IMG_3235.jpg)
 
 Than i did the background of the top part for which i just used some rest materials i had left - its purpose was not to look stylish just to function. After placing the Power cable there was still enough space left. Now this Suitcase can be used to develop a Raspberry Pi Project and the Sensors and Modules used could just be left in the Suitcase while you can work with it from anywhere where you have access to electricity.
-Done!
 
 ![image](img/IMG_3343.JPG)
